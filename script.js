@@ -8,7 +8,7 @@ let botao = document.querySelector(".botao");
 let logos = [
     "imagens/logo-01.png",
     "imagens/logo-02.png", 
-    "imagens/logo-03.png" 
+    "imagens/logo-03.png"
 ];
 
 // Variável para acompanhar qual logo está sendo exibida
